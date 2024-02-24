@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.jslib": "javascript",
+        "*.uss": "css",
+        "*.uxml": "xml",
+        "wire.h": "c",
+        "arduino.h": "c",
+        "adafruit_ssd1306.h": "c"
+    }
+}
