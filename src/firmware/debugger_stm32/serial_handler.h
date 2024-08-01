@@ -3,10 +3,11 @@
 
 #include <Arduino.h>
 #include <Wire.h>
+#include <SoftwareSerial.h>
 
 extern TwoWire Wire1;
 extern TwoWire Wire2;
-extern HardwareSerial debugSerial;
+extern SoftwareSerial debuggerSerial;
 extern HardwareSerial display1Serial;
 extern HardwareSerial display2Serial;
 
